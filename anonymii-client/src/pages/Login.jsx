@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 
 const Login = () => {
   const handleLogin = () => {
-    axios.get("http://3.91.86.158:3500/auth/reg").then((response) => {
+    axios.get("http://3.94.76.46:3500/").then((response) => {
       console.log(response)
     });
   }

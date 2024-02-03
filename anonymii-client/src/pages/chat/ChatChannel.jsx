@@ -2,7 +2,7 @@ import React from 'react'
 
 const ChatChannel = () => {
   return (
-    <div className="w-3/4 bg-gray ">
+    <div className="w-3/4 bg-white ">
 
       {/* TOP TAB */}
       <div className="h-18 shadow-md p-2 flex flex-col justify-center">
